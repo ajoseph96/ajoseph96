@@ -1,6 +1,6 @@
 ## Andrew Joseph
 
-### Computer Science at UBC · Software engineering intern at Acuity Insights, Vancouver
+### Computer Science at UBC · Software Engineering Intern at Acuity Insights, Vancouver
 
 Hi there 👋 Most of my work is in private company repos, so this profile is fun personal projects only.
 

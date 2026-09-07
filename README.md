@@ -9,9 +9,9 @@ Hi there 👋 Welcome to my GitHub! Most of my current work is in private compan
 - **[CalParse](https://github.com/BCS-quad/syllabus-scheduler)** — PDF course schedules to ICS files. Python, Flask, Docker
 
 ### Tools
-Python · TypeScript · PHP · C# · SQL
-React · Symfony · Node/Express · Flask
-AWS · Azure · Docker · GitHub Actions · PostgreSQL · MongoDB
+- **Languages** — Python · TypeScript · PHP · C# · SQL
+- **Frameworks** — React · Symfony · Node/Express · Flask
+- **Cloud & data** — AWS · Azure · Docker · GitHub Actions · PostgreSQL · MongoDB
 
 ### Fun facts
 - 🩺 Former physiotherapist — emergency and dialysis at Toronto General, before moving across the country to study CS

@@ -2,7 +2,7 @@
 
 ### Computer Science at UBC · Current Software Engineer Intern at Acuity Insights, Vancouver
 
-Hi there 👋 Welcome to my GitHub. Most of my current work is in private company repos, so this profile is for fun personal projects only.
+Hi there 👋 Welcome to my GitHub! Most of my current work is in private company repos, so this profile is for fun personal projects only.
 
 ### Working on
 - **[Wellness Chatbot](https://github.com/ajoseph96/mental-health-chatbot)** — React, Express, MongoDB, OpenAI API · [live](https://mental-health-chatbot-project.netlify.app/)

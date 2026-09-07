@@ -1,16 +1,23 @@
-## Hi there 👋
+## Andrew Joseph
 
-<!--
-**ajoseph96/ajoseph96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science at UBC · Software engineering intern at Acuity Insights, Vancouver
 
-Here are some ideas to get you started:
+Hi there 👋 Most of my work is in private company repos, so this profile is fun personal projects only.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Working on
+- **[Wellness Chatbot](https://github.com/ajoseph96/mental-health-chatbot)** — React, Express, MongoDB, OpenAI API · [live](https://mental-health-chatbot-project.netlify.app/)
+- **[CalParse](https://github.com/BCS-quad/syllabus-scheduler)** — PDF course schedules to ICS files. Python, Flask, Docker
+
+### Tools
+Python · TypeScript · PHP · C# · SQL
+React · Symfony · Node/Express · Flask
+AWS · Azure · Docker · GitHub Actions · PostgreSQL · MongoDB
+
+### Fun facts
+- 🩺 Former physiotherapist — emergency and dialysis at Toronto General, before moving across the country to study CS
+- 🤿 Licensed scuba diver
+- 🎤 Currently taking singing lessons
+- ☕ Coffee fanatic
+
+### Reach me
+andjoseph22@gmail.com · [LinkedIn](https://www.linkedin.com/in/andjos)
